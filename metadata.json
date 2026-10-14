@@ -1,0 +1,6 @@
+{
+  "name": "Our Journey: 18 Steps to You",
+  "description": "An interactive 18-stage romantic puzzle adventure and memory vault celebrating special moments, culminating in a heartfelt apology and love letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
